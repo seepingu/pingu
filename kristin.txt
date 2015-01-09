@@ -6,7 +6,7 @@
 
 
 
-
+nüüd saan siia kirjutada kui olin i tähte vajutanud
 
 
 
@@ -28,5 +28,4 @@
 jou
 :exit
 kirjutame midagi juurde
-
 
